@@ -3,7 +3,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Downloads-47K+-FF3B3B?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Rating-4.6/5-FF6B6B?style=for-the-badge&logo=star" />
-  <img src="https://img.shields.io/badge/Release-sol-private-key-checker-111111?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Works-Solana%20%7C%20SPL%20%7C%20Phantom-informational?style=for-the-badge&logo=solana" />
 </div>
 
